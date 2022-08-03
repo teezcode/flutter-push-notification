@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "487552127767",
+    "project_id": "flutter-chat-notification",
+    "storage_bucket": "flutter-chat-notification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487552127767:android:4229a5322390455d625d52",
+        "android_client_info": {
+          "package_name": "com.example.chat_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487552127767-0ggv19s1uemo0ve1061pss24hq4hph9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_odk5WYKOc1yxXvNhV51Fm_Gb3MAea-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487552127767-0ggv19s1uemo0ve1061pss24hq4hph9g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "487552127767-fc2af993qrn1es3th3gqa7m52g0pr708.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatNotif"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
